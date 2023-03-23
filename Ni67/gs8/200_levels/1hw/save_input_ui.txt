@@ -1,0 +1,29 @@
+betzy
+0
+5
+
+
+
+
+64
+
+
+
+gs8
+67ni
+
+range
+0.5
+8.5
+200
+both
+2
+1
+2
+1
+n_block = 8
+quench = 0.75
+
+y
+
+y
