@@ -1,3 +1,7 @@
+# user defined
+*.txt
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,fortran,linux,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,fortran,linux,macos
 
