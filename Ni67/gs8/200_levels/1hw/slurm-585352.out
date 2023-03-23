@@ -1,0 +1,59 @@
+Starting job 585352 on b[2250-2255,2261-2282,2284-2287] on betzy at Thu Mar 23 06:47:18 CET 2023
+
+start running log_Ni67_gs8_tr_j3p_j5p.txt ...
+
+Job 585352 consumed 4026.6 billing hours from project nn9464k.
+
+Submitted 2023-03-23T06:47:16; waited 1.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 2.0 hours
+Elapsed wallclock time:   59.0 minutes
+
+Task and CPU statistics:
+ID                         CPUs  Tasks  CPU util                Start   Elapsed  Exit status
+585352                     4096            0.0 %  2023-03-23T06:47:17  3539.0 s  0
+585352.batch                128      1     0.0 %  2023-03-23T06:47:17  3539.0 s  0
+585352.hydra_bstrap_proxy  2048     16   186.6 %  2023-03-23T06:47:21  3535.0 s  0
+585352.hydra_bstrap_proxy   128      1   188.7 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   179.3 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   187.4 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   191.0 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   179.3 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   186.6 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   181.1 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   183.9 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   190.8 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   185.9 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   190.8 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   183.1 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   191.0 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   184.4 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   181.6 %  2023-03-23T06:47:22  3534.0 s  0
+585352.hydra_bstrap_proxy   128      1   178.3 %  2023-03-23T06:47:22  3534.0 s  0
+
+Used CPU time:   311.5 CPU days
+Unused CPU time: 0.0 CPU seconds
+
+Memory statistics, in GiB:
+ID                          Alloc   Usage
+585352                     7744.0        
+585352.batch                242.0     0.0
+585352.hydra_bstrap_proxy  3872.0   134.3
+585352.hydra_bstrap_proxy   242.0     8.5
+585352.hydra_bstrap_proxy   242.0     8.3
+585352.hydra_bstrap_proxy   242.0     8.4
+585352.hydra_bstrap_proxy   242.0     8.3
+585352.hydra_bstrap_proxy   242.0     8.4
+585352.hydra_bstrap_proxy   242.0     8.5
+585352.hydra_bstrap_proxy   242.0     8.4
+585352.hydra_bstrap_proxy   242.0     8.4
+585352.hydra_bstrap_proxy   242.0     8.4
+585352.hydra_bstrap_proxy   242.0     8.3
+585352.hydra_bstrap_proxy   242.0     8.4
+585352.hydra_bstrap_proxy   242.0     8.3
+585352.hydra_bstrap_proxy   242.0     8.4
+585352.hydra_bstrap_proxy   242.0     8.4
+585352.hydra_bstrap_proxy   242.0     8.4
+585352.hydra_bstrap_proxy   242.0     8.3
+
+Job 585352 completed at Thu Mar 23 07:46:17 CET 2023

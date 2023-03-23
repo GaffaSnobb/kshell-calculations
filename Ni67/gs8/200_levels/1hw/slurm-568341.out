@@ -1,0 +1,155 @@
+Starting job 568341 on b[2246,3184,3187-3188,3357,3359,3361,3367,3369,3374,3376-3377,5140-5141,5147,5171] on betzy at Wed Feb 22 06:21:41 CET 2023
+
+start running log_Ni67_gs8_j7p.txt ...
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+error dsyevx
+
+Job 568341 consumed 244.1 billing hours from project nn9464k.
+
+Submitted 2023-02-22T06:09:15; waited 12.4 minutes in the queue after becoming eligible to run.
+
+Requested wallclock time: 10.0 hours
+Elapsed wallclock time:   7.2 minutes
+
+Task and CPU statistics:
+ID                         CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+568341                     2048            0.0 %  2023-02-22T06:21:41  429.0 s  0
+568341.batch                128      1     0.0 %  2023-02-22T06:21:41  429.0 s  0
+568341.hydra_bstrap_proxy  2048     16   188.9 %  2023-02-22T06:21:43  427.0 s  0
+
+Used CPU time:   19.1 CPU days
+Unused CPU time: 0.0 CPU seconds
+
+Memory statistics, in GiB:
+ID                          Alloc   Usage
+568341                     3872.0        
+568341.batch                242.0     0.0
+568341.hydra_bstrap_proxy  3872.0   173.7
+
+Job 568341 completed at Wed Feb 22 06:28:51 CET 2023

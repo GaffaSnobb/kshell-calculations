@@ -1,0 +1,35 @@
+Starting job 568292 on b3268 on betzy at Wed Feb 22 01:52:48 CET 2023
+
+start running log_Ni67_gs8_j17n.txt ...
+NOT converged jj_refine
+NOT converged jj_refine
+NOT converged jj_refine
+NOT converged jj_refine
+NOT converged jj_refine
+NOT converged jj_refine
+NOT converged jj_refine
+NOT converged jj_refine
+
+Job 568292 consumed 0.3 billing hours from project nn9464k.
+
+Submitted 2023-02-22T01:44:32; waited 8.3 minutes in the queue after becoming eligible to run.
+
+Requested wallclock time: 10.0 minutes
+Elapsed wallclock time:   8.0 seconds
+
+Task and CPU statistics:
+ID                         CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+568292                      128            0.0 %  2023-02-22T01:52:48    8.0 s  0
+568292.batch                128      1     0.1 %  2023-02-22T01:52:48    8.0 s  0
+568292.hydra_bstrap_proxy   128      1    64.0 %  2023-02-22T01:52:50    6.0 s  0
+
+Used CPU time:   8.2 CPU minutes
+Unused CPU time: 8.9 CPU minutes
+
+Memory statistics, in GiB:
+ID                          Alloc   Usage
+568292                      242.0        
+568292.batch                242.0     0.0
+568292.hydra_bstrap_proxy   242.0     0.0
+
+Job 568292 completed at Wed Feb 22 01:52:56 CET 2023

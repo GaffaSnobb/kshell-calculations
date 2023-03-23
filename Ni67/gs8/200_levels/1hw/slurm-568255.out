@@ -1,0 +1,27 @@
+Starting job 568255 on b[3280,3282,3284-3285,4307-4309,4312-4313,4324,4333-4334,5140-5141,5147,5171] on betzy at Wed Feb 22 03:54:27 CET 2023
+
+start running log_Ni67_gs8_j9p.txt ...
+
+Job 568255 consumed 1818.7 billing hours from project nn9464k.
+
+Submitted 2023-02-22T01:11:50; waited 2.7 hours in the queue after becoming eligible to run.
+
+Requested wallclock time: 5.0 hours
+Elapsed wallclock time:   53.3 minutes
+
+Task and CPU statistics:
+ID                         CPUs  Tasks  CPU util                Start   Elapsed  Exit status
+568255                     2048            0.0 %  2023-02-22T03:54:26  3197.0 s  0
+568255.batch                128      1     0.0 %  2023-02-22T03:54:26  3197.0 s  0
+568255.hydra_bstrap_proxy  2048     16   170.2 %  2023-02-22T03:54:30  3193.0 s  0
+
+Used CPU time:   128.8 CPU days
+Unused CPU time: 0.0 CPU seconds
+
+Memory statistics, in GiB:
+ID                          Alloc   Usage
+568255                     3872.0        
+568255.batch                242.0     0.0
+568255.hydra_bstrap_proxy  3872.0   281.7
+
+Job 568255 completed at Wed Feb 22 04:47:43 CET 2023

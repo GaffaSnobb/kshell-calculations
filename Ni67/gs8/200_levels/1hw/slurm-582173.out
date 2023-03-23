@@ -1,0 +1,27 @@
+Starting job 582173 on b[4342,4347] on betzy at Fri Mar 17 09:09:58 CET 2023
+
+start running log_Ni67_gs8_j17n.txt ...
+
+Job 582173 consumed 3.6 billing hours from project nn9464k.
+
+Submitted 2023-03-17T08:47:36; waited 22.4 minutes in the queue after becoming eligible to run.
+
+Requested wallclock time: 60.0 minutes
+Elapsed wallclock time:   50.0 seconds
+
+Task and CPU statistics:
+ID                         CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+582173                      256            0.0 %  2023-03-17T09:09:58   50.0 s  0
+582173.batch                128      1     0.0 %  2023-03-17T09:09:58   50.0 s  0
+582173.hydra_bstrap_proxy   256      2   108.7 %  2023-03-17T09:10:05   42.0 s  0
+
+Used CPU time:   3.2 CPU hours
+Unused CPU time: 18.5 CPU minutes
+
+Memory statistics, in GiB:
+ID                          Alloc   Usage
+582173                      484.0        
+582173.batch                242.0     0.0
+582173.hydra_bstrap_proxy   484.0     5.2
+
+Job 582173 completed at Fri Mar 17 09:10:48 CET 2023

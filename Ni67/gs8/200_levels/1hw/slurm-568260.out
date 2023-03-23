@@ -1,0 +1,27 @@
+Starting job 568260 on b[3268-3269,3272-3275,3278-3280,3282,3284-3285,4307-4309,4312] on betzy at Wed Feb 22 05:56:32 CET 2023
+
+start running log_Ni67_gs8_j3p.txt ...
+
+Job 568260 consumed 3614.7 billing hours from project nn9464k.
+
+Submitted 2023-02-22T01:12:39; waited 4.7 hours in the queue after becoming eligible to run.
+
+Requested wallclock time: 5.0 hours
+Elapsed wallclock time:   1.8 hours
+
+Task and CPU statistics:
+ID                         CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+568260                     2048            0.0 %  2023-02-22T05:56:32    1.8 h  255 (exit status out of range)
+568260.batch                128      1     0.0 %  2023-02-22T05:56:32    1.8 h  255 (exit status out of range)
+568260.hydra_bstrap_proxy  2048     16   167.2 %  2023-02-22T05:56:35    1.8 h  0
+
+Used CPU time:   251.7 CPU days
+Unused CPU time: 0.0 CPU seconds
+
+Memory statistics, in GiB:
+ID                          Alloc   Usage
+568260                     3872.0        
+568260.batch                242.0     0.0
+568260.hydra_bstrap_proxy  3872.0   359.6
+
+Job 568260 completed at Wed Feb 22 07:42:27 CET 2023

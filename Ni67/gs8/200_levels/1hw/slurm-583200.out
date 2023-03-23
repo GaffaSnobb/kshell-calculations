@@ -1,0 +1,27 @@
+Starting job 583200 on b[2377-2380] on betzy at Mon Mar 20 06:58:51 CET 2023
+
+start running log_Ni67_gs8_tr_j11n_j13n.txt ...
+
+Job 583200 consumed 10.1 billing hours from project nn9464k.
+
+Submitted 2023-03-20T06:58:50; waited 1.0 seconds in the queue after becoming eligible to run.
+
+Requested wallclock time: 5.2 hours
+Elapsed wallclock time:   1.2 minutes
+
+Task and CPU statistics:
+ID                         CPUs  Tasks  CPU util                Start  Elapsed  Exit status
+583200                      512            0.0 %  2023-03-20T06:58:51   71.0 s  0
+583200.batch                128      1     0.0 %  2023-03-20T06:58:51   71.0 s  0
+583200.hydra_bstrap_proxy   512      4   189.0 %  2023-03-20T06:58:53   69.0 s  0
+
+Used CPU time:   18.5 CPU hours
+Unused CPU time: 0.0 CPU seconds
+
+Memory statistics, in GiB:
+ID                          Alloc   Usage
+583200                      968.0        
+583200.batch                242.0     0.0
+583200.hydra_bstrap_proxy   968.0     6.4
+
+Job 583200 completed at Mon Mar 20 07:00:03 CET 2023
